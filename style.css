@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  font-family: roboto;
+}
+
+.library {
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+}
+
+.book-card {
+  display: flex;
+  flex-flow: column;
+}
