@@ -3,13 +3,16 @@
   font-family: roboto;
 }
 
+body {
+  /* background-color: #333; */
+}
+
 .library {
   display: flex;
   flex-flow: row;
   flex-wrap: wrap;
 }
 
-.book-card {
-  display: flex;
-  flex-flow: column;
+.author {
+  
 }
